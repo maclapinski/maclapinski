@@ -10,8 +10,9 @@ I recently shifted careers from heavy-duty mechanics due to Covid-19. I've alway
 
 ### :computer: I'm currently working on:
 
-- My portfolio web page
+- My back-end skills
 - My React skills
+- Contributing to Gaggl startup 
 
 ### :sparkles: In 2021 I want to learn:
 
