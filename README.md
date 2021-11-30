@@ -2,7 +2,7 @@
 
 ## I'm a Front End Web Developer, a handyman/inventor, a problem solver, a proud Border Collie dad.
 
-I recently shifted careers from heavy-duty mechanics due to Covid-19. I've always been interested in IT. For years I've worked as a computer technician and was interested in learning to code but never made the time to do so. Getting laid off during Covid-19 gave me the time I needed to finally take the leap and learn. I recently completed the .Net Core course at ComIT. After the course, I did online courses on HTML and CSS, Bootstrap, and ReactJS. I'm excited to make a positive impact on the world, one line of code at a time!
+I recently shifted careers from heavy-duty mechanics due to Covid-19. I've always been interested in IT. For years I've worked as a computer technician and was interested in learning to code but never made the time to do so. Getting laid off during Covid-19 gave me the time I needed to finally take the leap and learn. I recently completed the .Net Core course at ComIT. After the course, I did online courses on HTML and CSS, Bootstrap, Node and React. I'm excited to make a positive impact on the world, one line of code at a time!
 
 ## My skillset includes:
 
@@ -12,11 +12,11 @@ I recently shifted careers from heavy-duty mechanics due to Covid-19. I've alway
 
 - My back-end skills
 - My React skills
-- Contributing to Gaggl startup 
+- Building landing pages and portfolio websites for international customers. 
 
 ### :sparkles: In 2021 I want to learn:
 
-- Vue.js
+- Master Node.js skills
 
 ### :speech_balloon: Ask me about: Fixing stuff!
 
