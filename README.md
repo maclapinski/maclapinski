@@ -12,11 +12,11 @@ I recently shifted careers from heavy-duty mechanics due to Covid-19. I've alway
 
 - My back-end skills
 - My React skills
-- Building landing pages and portfolio websites for international customers.  
+- Building landing pages and portfolio websites for local and international customers.  
 
-### :sparkles: In 2021 I want to learn:
+### :sparkles: In 2022 I want to learn:
 
-- Master Node.js skills
+- Next.js
 
 ### :speech_balloon: Ask me about: Fixing stuff!
 
